@@ -39,6 +39,16 @@ cheatsheet do
         
     end
 
+    category do
+        id 'Edit'
+
+        entry do
+            name 'Toggle All Files'
+            command 'CMD + SHIFT + T'
+        end
+
+    end
+
   notes <<-'END'
     * Created by [Peter Blazejewicz](https://github.com/peterblazejewicz).
   END
