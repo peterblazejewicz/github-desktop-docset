@@ -49,6 +49,51 @@ cheatsheet do
 
     end
 
+    category do
+        id 'View'
+
+        entry do
+            name 'Uncommited Changes'
+            command 'CMD + 1'
+        end
+
+        entry do
+            name 'Branch History'
+            command 'CMD + 2'
+        end
+
+        entry do
+            name 'Go To Commit Message'
+            command 'CMD + SHIFT + C'
+        end
+
+        entry do
+            name 'Go To Commit Message'
+            command 'CMD + SHIFT + C'
+        end
+
+        entry do
+            name 'Go To Changed Files'
+            command 'CMD + SHIFT + 1'
+        end
+
+        entry do
+            name 'Go To Unsynced Commits'
+            command 'CMD + SHIFT + 2'
+        end
+
+        entry do
+            name 'Hide Repository List'
+            command 'CMD + SHIFT + R'
+        end
+
+        entry do
+            name 'Go To Filter Repositories'
+            command 'CMD + SHIFT + O'
+        end
+
+    end
+
   notes <<-'END'
     * Created by [Peter Blazejewicz](https://github.com/peterblazejewicz).
   END
