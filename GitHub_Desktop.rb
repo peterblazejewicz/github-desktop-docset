@@ -68,11 +68,6 @@ cheatsheet do
         end
 
         entry do
-            name 'Go To Commit Message'
-            command 'CMD + SHIFT + C'
-        end
-
-        entry do
             name 'Go To Changed Files'
             command 'CMD + SHIFT + 1'
         end
