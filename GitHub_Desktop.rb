@@ -94,6 +94,61 @@ cheatsheet do
 
     end
 
+    category do
+        id 'Repository'
+
+        entry do
+            name 'Show Branches'
+            command 'CMD + B'
+        end
+
+        entry do
+            name 'Open in Finder'
+            command 'CMD + SHIFT + F'
+        end
+
+        entry do
+            name 'Open in Terminal'
+            command 'CMD + T'
+        end
+
+        entry do
+            name 'Open in Atom'
+            command 'CMD + SHIFT + A'
+        end
+
+        entry do
+            name 'Sync'
+            command 'CMD + S'
+        end
+
+        entry do
+            name 'Push'
+            command 'CMD + P'
+        end
+
+        entry do
+            name 'Pull'
+            command 'CMD + SHIFT + P'
+        end
+
+        entry do
+            name 'Undo Most Recent Commit'
+            command 'CMD + ALT + Z'
+        end
+
+        entry do
+            name 'Create Pull Request'
+            command 'CMD + R'
+        end
+
+        entry do
+            name 'View on GitHub'
+            command 'CMD + ALT + G'
+        end
+
+    end
+
   notes <<-'END'
     * Created by [Peter Blazejewicz](https://github.com/peterblazejewicz).
   END
