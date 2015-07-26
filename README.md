@@ -1,4 +1,4 @@
-# github-desktop-docset
+# GitHub Desktop DocSet for Kapeli Dash and supported clients
 
 The GitHub for Desktop ships with several built-in keyboard shortcuts that developers can use to save their time during Git workflow. Below there are outlined keyboard shortcuts for each section or specific to single section in application. The commands are assigned to categories based on Mac OS X interface menu.
 
