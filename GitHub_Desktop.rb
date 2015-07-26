@@ -49,7 +49,7 @@ cheatsheet do
 
         entry do
             name 'Toggle All Files'
-            command 'CMD + SHIFT + T'
+            command 'CMD+SHIFT+T'
         end
 
     end
@@ -59,37 +59,37 @@ cheatsheet do
 
         entry do
             name 'Uncommited Changes'
-            command 'CMD + 1'
+            command 'CMD+1'
         end
 
         entry do
             name 'Branch History'
-            command 'CMD + 2'
+            command 'CMD+2'
         end
 
         entry do
             name 'Go To Commit Message'
-            command 'CMD + SHIFT + C'
+            command 'CMD+SHIFT+C'
         end
 
         entry do
             name 'Go To Changed Files'
-            command 'CMD + SHIFT + 1'
+            command 'CMD+SHIFT+1'
         end
 
         entry do
             name 'Go To Unsynced Commits'
-            command 'CMD + SHIFT + 2'
+            command 'CMD+SHIFT+2'
         end
 
         entry do
             name 'Hide Repository List'
-            command 'CMD + SHIFT + R'
+            command 'CMD+SHIFT+R'
         end
 
         entry do
             name 'Go To Filter Repositories'
-            command 'CMD + SHIFT + O'
+            command 'CMD+SHIFT+O'
             notes 'The command was previously named "Open Repository Quickly …"'
         end
 
@@ -100,52 +100,52 @@ cheatsheet do
 
         entry do
             name 'Show Branches'
-            command 'CMD + B'
+            command 'CMD+B'
         end
 
         entry do
             name 'Open in Finder'
-            command 'CMD + SHIFT + F'
+            command 'CMD+SHIFT+F'
         end
 
         entry do
             name 'Open in Terminal'
-            command 'CMD + T'
+            command 'CMD+T'
         end
 
         entry do
             name 'Open in Atom'
-            command 'CMD + SHIFT + A'
+            command 'CMD+SHIFT+A'
         end
 
         entry do
             name 'Sync'
-            command 'CMD + S'
+            command 'CMD+S'
         end
 
         entry do
             name 'Push'
-            command 'CMD + P'
+            command 'CMD+P'
         end
 
         entry do
             name 'Pull'
-            command 'CMD + SHIFT + P'
+            command 'CMD+SHIFT+P'
         end
 
         entry do
             name 'Undo Most Recent Commit'
-            command 'CMD + ALT + Z'
+            command 'CMD+ALT+Z'
         end
 
         entry do
             name 'Create Pull Request'
-            command 'CMD + R'
+            command 'CMD+R'
         end
 
         entry do
             name 'View on GitHub'
-            command 'CMD + ALT + G'
+            command 'CMD+ALT+G'
         end
 
     end
