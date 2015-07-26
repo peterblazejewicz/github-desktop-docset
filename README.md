@@ -1,22 +1,29 @@
 # github-desktop-docset
 
-A cheatset for GitHub Desktop unified client: https://desktop.github.com/
+The GitHub for Desktop ships with several built-in keyboard shortcuts that developers can use to save their time during Git workflow. Below there are outlined keyboard shortcuts for each section or specific to single section in application. The commands are assigned to categories based on Mac OS X interface menu.
 
-This is a WIP project. I'm doing this while using beta of unified GitHub Desktop native application both on Windows and Mac OS X. The Dash cheatset file will be PR to Kapeli's Dash cheatset.
+Compiled cheatset as seen after installing in Dash 3.0 (Mac OS X)
 
-A cheatset used by Alfred in search:
+![GitHub Desktop Cheatset](assets/20150726104652.jpg)
+
+A cheatset used by Alfred 2.0 search interface:
 
 ![GitHub Desktop Cheatset used in Alfred](assets/20150725221205.jpg)
 
-Compiled cheatset as seen in Dash 3.0:
+## Installation
 
-![GitHub Desktop Cheatset](assets/20150725220838.jpg)
+Either download this repository archive or clone to your local machine and then add docset manually from `Docset` section in Dash preferences:
+
+![GitHub Desktop Cheatset used in Alfred](assets/20150726105212.jpg)
 
 ## Development
 
+You need to install Cheatset RubyGem first:
 ```
 sudo gem install cheatset
 ```
+
+To generate updated version of cheatset run:
 
 ```
 $ cheatset generate GitHub_Desktop.rb
