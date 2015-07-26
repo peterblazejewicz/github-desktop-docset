@@ -1,8 +1,13 @@
 cheatsheet do
-    title 'GitHub Desktop'
-    docset_file_name 'GitHub_Desktop'
+
+    docset_file_name 'GitHubDesktop'
+    introduction 'The GitHub for Desktop ships with several built-in keyboard shortcuts '\
+        'that developers can use to save their time during Git workflow. Below there are '\
+        'outlined keyboard shortcuts for each section or specific to single section in application.'\
+        ' The commands are assigned to categories based on Mac OS X interface menu.'
     keyword 'GitHub'
-    source_url 'http://cheat.kapeli.com'
+    source_url 'https://github.com/peterblazejewicz/github-desktop-docset'
+    title 'GitHub Desktop'
 
     category do
         id 'File'
@@ -85,6 +90,7 @@ cheatsheet do
         entry do
             name 'Go To Filter Repositories'
             command 'CMD + SHIFT + O'
+            notes 'The command was previously named "Open Repository Quickly …"'
         end
 
     end
