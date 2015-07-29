@@ -121,6 +121,7 @@ cheatsheet do
         entry do
             name 'Sync'
             command 'CMD+S'
+            command 'ALT+S'
         end
 
         entry do
