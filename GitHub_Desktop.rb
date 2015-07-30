@@ -90,6 +90,7 @@ cheatsheet do
         entry do
             name 'Go To Filter Repositories'
             command 'CMD+SHIFT+O'
+            command 'CTRL+F'
             notes 'The command was previously named "Open Repository Quickly …"'
         end
 
