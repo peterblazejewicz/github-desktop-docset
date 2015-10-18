@@ -83,7 +83,7 @@ cheatsheet do
         end
 
         entry do
-            name 'Hide Repository List'
+            name 'Show/Hide Repository List'
             command 'CMD+SHIFT+R'
         end
 
