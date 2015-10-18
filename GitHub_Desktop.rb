@@ -41,7 +41,7 @@ cheatsheet do
             name 'Close'
             command 'CMD+W'
         end
-        
+
     end
 
     category do
